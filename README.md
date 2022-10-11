@@ -1,4 +1,4 @@
-Hi, I’m @SargentBill.  
+Hi, I’m SpiceWire.  
 
   I'm interested in fabricobbling and frankengineering home automation on the cheap.  
   

@@ -1,8 +1,9 @@
-Hi, I’m SpiceWire.  
+Hi, I’m Bill Sargent.
 
-  I'm interested in fabricobbling and frankengineering home automation on the cheap.  
+  In my free time I enjoy homebrewed home automation projects, advanced tinkering, and repair of any sort. 
+
+  I am currently seeking employment as a software developer.
   
-  I’m currently learning discrete math, discreetly.
 
 
 <!---
